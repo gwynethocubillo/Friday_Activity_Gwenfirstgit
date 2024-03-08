@@ -1,0 +1,84 @@
+.profile_pic2{
+    height: 230px;
+    width: 230px;
+    margin: auto;
+}
+
+#profile_name{
+    align-self: center;
+    text-align: center;
+}
+
+.name{
+    margin-bottom: 0px;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(80, 2, 2);
+}
+
+#personalinfo{
+    font-family: 'Arial';
+}
+
+.personal_info,.aboutme,.school,.social{
+    padding: 10px;
+    background-color: rgb(80, 2, 2);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}  
+
+.bio,.data{
+    display: inline;
+}
+.biodata{
+    line-height: 40px;
+}
+
+.about_me{
+    text-align: center;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.education{
+    text-align: center;
+    line-height: 40px;
+}
+.educ_level,.school1{
+    display: inline;
+    margin-bottom: 50px;
+}
+
+.fa-phone,.fa-square-envelope,.fa-facebook,.fa-instagram,.fa-github{
+    font-size: 30px;
+}
+.fa-phone,.tellno{
+    display: inline;
+}
+.fa-square-envelope,.email{
+    display: inline;
+}
+.fa-facebook,.fb{
+    display: inline;
+}
+.fa-instagram,.insta{
+    display: inline;
+}
+.fa-github,.github{
+    display: inline;
+}
+.pdf{
+    margin-bottom: 30px;
+    justify-content: center;
+}
+.pdf{
+    background:  rgb(80, 2, 2);
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.pdf:hover{
+    background: rgb(182, 5, 5);
+}
